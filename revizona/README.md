@@ -1,2 +1,0 @@
-# sprit00
-## progHub

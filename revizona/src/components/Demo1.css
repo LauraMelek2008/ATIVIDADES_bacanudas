@@ -1,3 +1,9 @@
 .container-demo1{
     background-color: rgb(105, 168, 105);
+    height: 30px;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px; 
 }
