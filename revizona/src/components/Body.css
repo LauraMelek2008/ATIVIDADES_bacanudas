@@ -1,4 +1,6 @@
 .container-body{
-    background-color: rgb(255, 247, 202);
+    background-color: #daeea2;
     min-height: calc(100vh - 80px);
+    display: flex;
+    justify-content: center;
 }

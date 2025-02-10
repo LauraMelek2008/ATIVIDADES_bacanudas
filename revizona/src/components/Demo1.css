@@ -1,9 +1,10 @@
 .container-demo1{
-    background-color: rgb(105, 168, 105);
+    background-color: rgb(30, 54, 29);
     height: 30px;
+    width: 50%;
     border-radius: 50px;
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     align-items: center;
-    gap: 50px; 
+    
 }

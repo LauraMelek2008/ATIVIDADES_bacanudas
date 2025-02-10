@@ -1,5 +1,6 @@
 .container-header{
-    background-color: rgb(104, 86, 48);
+    background-color: rgb(56, 35, 8);
+    color: rgb(124, 223, 137);
     height: 80px;
     display: flex;
     justify-content: space-around;
